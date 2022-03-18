@@ -1,0 +1,2 @@
+# Nearest Neighbor Classifier with Margin Penalty for Active Learning
+Implementation of our Nearest Neighbor Classifier with Margin Penalty for Active Learning (NCMAL).  https://arxiv.org/abs/2203.09174
